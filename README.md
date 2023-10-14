@@ -9,4 +9,4 @@ This project is a simple React-based Todo App that allows users to create and ma
 
 4.Mark as Complete/Undo: Users can click the "Complete" button to mark a task as complete, and it will change the appearance to indicate completion. Clicking the "Undo" button reverses the completion status.
 
-4.Task Deletion: Users can click the "Delete" button to remove a task from the list.
+5.Task Deletion: Users can click the "Delete" button to remove a task from the list.
